@@ -1,5 +1,5 @@
 # =============================================================================
-# ORPheoS / EMA4Stroke — Reproducible Analysis Script
+# ORPheoS / EMA4Stroke — Reproducible Analysis Pipeline
 # Grupe, Hildebrandt, Witt, Kastrup, Thiel, Roheger & Hildebrandt
 # Beyond the Clinic: Bridging the Gap in Post-Stroke Cognitive Monitoring
 # with the Oldenburg Test Battery for Remote Digital Phenotyping of
