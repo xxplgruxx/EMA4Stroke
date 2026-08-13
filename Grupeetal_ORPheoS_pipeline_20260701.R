@@ -26,7 +26,7 @@
 # EMA4Stroke_Baseline_GoNoGo_Raw.csv. All outputs (figures, tables) are
 # written to output_dir.
 
-data_dir   <- "\\\\smb.uni-oldenburg.de\\psychologie$\\PMuS\\GraKo\\Grupe\\GRAKO Stroke & Neuromodulation\\Analyse\\Test Sets"
+data_dir   <- "[put your path here]"
 output_dir <- "./output"
 dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
 
